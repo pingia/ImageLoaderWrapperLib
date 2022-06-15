@@ -1,0 +1,3 @@
+include ':ImageLoaderWrapperLib'
+include ':app'
+rootProject.name = "ImageLoaderWrapperLib"
