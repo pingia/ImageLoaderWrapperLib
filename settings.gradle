@@ -1,3 +1,3 @@
-include ':ImageLoaderWrapperLib'
+include ':ImageLoaderWrapper'
 include ':app'
 rootProject.name = "ImageLoaderWrapperLib"
